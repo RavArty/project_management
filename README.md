@@ -1,1 +1,3 @@
-<img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions">
+# Project Management System
+
+<img src="https://github.com/RavArty/project_management/blob/master/diagram_pic.jpeg" title="FVCproductions" alt="FVCproductions">

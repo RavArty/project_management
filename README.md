@@ -10,5 +10,9 @@ project_management_scripts.sql - generated scripts
 
 ## Tables
 
-**proect** - it's a table where we'll store all projects
+**projects** - it's a table where we'll store all projects
+**client_project** - relates clients/partners with projects
+**client** - table with clients
+**project_manager** - users who can manage projects, open tickets, and assign tickets to other users.
+
 

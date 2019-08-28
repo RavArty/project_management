@@ -17,5 +17,7 @@ project_management_scripts.sql - generated scripts
 
 **users** - table with users </br>
 **team** - in case we will want to assign an entire team for a ticket. Otherwise we can end up assigning a ticket to each user separately  </br>
+
+**next_release** - table for storing all requirements for the next release </br>
 **tickets** - table for storing bugs/fixes etc. </br>
 **ticket_type** - list all ticket types</br>
